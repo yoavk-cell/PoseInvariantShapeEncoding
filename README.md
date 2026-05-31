@@ -265,22 +265,9 @@ Typical outputs include:
 - PCA plots of the learned latent space,
 - final shape-matching overlays.
 
----
 
-## Notes
-
-This code was written for thesis experiments and is organized as research code rather than as a polished Python package.  
-For reuse, the most important things to check are:
-
-1. file paths,
-2. image resolution `S`,
-3. checkpoint location,
-4. target image path,
-5. whether `my_siren_model.py` is included and matches the saved checkpoint.
 
 ---
 
 ## Author
 
-Yoav Kamir  
-Master's thesis project, University of Copenhagen
